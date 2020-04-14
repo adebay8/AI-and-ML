@@ -1,10 +1,6 @@
 
-Face-Detection-using-Webcam
-==================
+Face Detection using Webcam
+===========================
 
-Run the program like this:
-
-*python webcam.py*
-
-To run the OpenCV3 version, run python webcam_cv3.py haarcascade_frontalface_default.xml
+This program perfroms face detection using Haar Cascade Classifier and a rectangle is drawn to show the faces that have been detected.
 
